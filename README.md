@@ -1,4 +1,6 @@
 # Road-Accident Dashboard
+- ![Screenshot 2024-05-06 130125](https://github.com/Vetri2509/Road-Accident/assets/163424219/27ef53b5-c4d4-4452-b03f-fe1acf504203)
+- ![Screenshot 2024-05-06 133017](https://github.com/Vetri2509/Road-Accident/assets/163424219/ff0da1ff-1f81-4789-a799-0b76597ea272)
 
 ## Project dataset and dashboard availabe at : https://docs.google.com/spreadsheets/d/16WgFTRKgLM_inJ084thZJgSl9gk3Y_iw/edit?usp=drive_link&ouid=111109787105316434556&rtpof=true&sd=true
 
@@ -48,5 +50,5 @@ to gain valuable insights from the road accident dataset
 
 - Please find the project requirements doc file and feel free to try it out yourself thanks!
 
-- ![Screenshot 2024-05-06 130125](https://github.com/Vetri2509/Road-Accident/assets/163424219/27ef53b5-c4d4-4452-b03f-fe1acf504203)
+
 
