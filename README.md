@@ -47,3 +47,6 @@ to gain valuable insights from the road accident dataset
  dash board more interactive and presentable.
 
 - Please find the project requirements doc file and feel free to try it out yourself thanks!
+
+- ![Screenshot 2024-05-06 130125](https://github.com/Vetri2509/Road-Accident/assets/163424219/27ef53b5-c4d4-4452-b03f-fe1acf504203)
+
